@@ -1,2 +1,2 @@
-# scaffolding-training-card
+# scaffolding_training_card
 Scaffolding Training Card Download
